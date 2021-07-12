@@ -7,10 +7,12 @@ El cual por la alta cantidad de preguntas por correo no se da abasto de responde
 
 Se utilizarán los siguientes videos para el proyecto
 
-## Chatbot principiante e intermedio
+## Chatbot
 Videos donde explican la creación de un chatbot por medio de python y flask
-- https://www.youtube.com/watch?v=vacHkba08XY
-- https://www.youtube.com/watch?v=4tNw0xFz8tU
+
+City code explicación de 4 capítulos
+- https://www.youtube.com/watch?v=MwUBWpedVkc
+
 - Flask Playlist: https://www.youtube.com/playlist?list=PLT8WeU5lHsiR3AoLgOfIyOFr6KYNji8aW
 
 ## Conectividad con facebook y google
