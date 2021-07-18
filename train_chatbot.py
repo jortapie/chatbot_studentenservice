@@ -1,11 +1,9 @@
-import pickle
-
 import nltk
 # nltk.download()
 from nltk.stem import WordNetLemmatizer
-
 lemmatizer = WordNetLemmatizer()
 import json
+import pickle
 
 import random
 import numpy as np
